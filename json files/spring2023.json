@@ -1,0 +1,219 @@
+[
+    {
+        "status": "Accepted",
+        "applicationDate": "08/15/2022",
+        "decisionDate": "09/27/2022",
+        "education": {
+            "institution": "Tec de Monterrey",
+            "degree": "BS Biomedical Engineering",
+            "gpa": 3.6
+        },
+        "gre": "N/A",
+        "recommendations": 0,
+        "experience": "Internship at AECULAP as analyst, working as business analyst",
+        "statementOfPurpose": "Explain why I want to study this master's degree, my experience and how this experience helps me to obtain the necessary prerequisites to pursue the master's degree. Why I want to study at the University of Texas and what I can contribute to the university.",
+        "moocs": 0
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "08/15/2022",
+        "decisionDate": "09/27/2022",
+        "education": {
+            "institution": "Not Stated",
+            "degree": "BA in Humanities",
+            "gpa": 3.24
+        },
+        "gre": "N/A",
+        "recommendations": 1,
+        "experience": "2 Years, No-name company, ML Engineer",
+        "statementOfPurpose": "Explained how I started learning DS, why I think I can succeed in the program, and what I did at work.",
+        "moocs": "8+ including all the math prereqs, ML, data analysis, Python and R.",
+        "comments": "Not really confident about my acceptance. I updated my SOP while the application was \"in review\". I hope the reviewer reads the new one."
+    },
+
+    {
+        "status": "Rejected",
+        "applicationDate": "08/06/2022",
+        "decisionDate": "10/11/2022",
+        "education": {
+            "institution": "UT Austin",
+            "degree": "BS in Mathematics",
+            "gpa": 3.4
+        },
+        "gre": "N/A",
+        "recommendations": 2,
+        "experience": "2 years as a data analyst for an infrastructure and ops team",
+        "statementOfPurpose": "Just explained my professional and educational experiences will help me be prepared for this program and that I would like to learn a deeper, formal learning of data science and its real-world applications",
+        "moocs": "NA"
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "09/15/2022",
+        "decisionDate": "10/26/2022",
+        "education": {
+            "institution": "UT Austin",
+            "degree": "BS in Civil Engineering",
+            "gpa": 3.65
+        },
+        "gre": {
+            "quantitative": 164,
+            "verbal": 167,
+            "writing": 4
+        },
+        "recommendations": 0,
+        "experience": "5 years in transportation/traffic engineering, not DS related",
+        "statementOfPurpose": "Talked about my desire to learn data science and apply it to the transportation engineering industry, and the skills that I have that would allow me to succeed in the program.",
+        "moocs": "none"
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "07/15/2022",
+        "decisionDate": "08/23/2022",
+        "education": {
+            "institution": "Mediocre Private School",
+            "degree": "BS in Computer Science",
+            "minor": "Applied Math",
+            "gpa": 3.42
+        },
+        "gre": "N/A",
+        "recommendations": 0,
+        "experience": "17 Months Total. 8 Month internship as a Software Engineer. 9 Months Full-time as a Data Analyst",
+        "statementOfPurpose": "Talked about how I want to learn Data Science so I can do supply chain optimization using ML.",
+        "moocs": 0
+    },
+
+    {
+        "status": "Rejected",
+        "applicationDate": "07/01/2022",
+        "decisionDate": "10/27/2022",
+        "education": {
+            "institution": "Not Stated",
+            "degrees": [
+                "B.A in Mathematics",
+                "M.S in Applied Mathematics",
+                "Ph.D in Applied Mathematics"
+            ],
+            "gpa": "N/A"
+        },
+        "gre": "N/A",
+        "recommendations": 2,
+        "experience": "3 Years (2.5 years at National Lab, 0.5 year as a data scientist at an energy company)",
+        "statementOfPurpose": "Explained how my experiences and educations can help me succeed in completing the program, and my long-term career goal is to become a research/data scientist.",
+        "moocs": "Been taking a few ML courses on Coursera",
+        "comments": "I am completely aware that it could be redundant to go for a master degree after having a PhD but I would very much like to have a formal data science/machine learning education."
+    },
+
+    {
+        "status": "Rejected",
+        "applicationDate": "08/06/2022",
+        "decisionDate": "10/11/2022",
+        "education": {
+            "institution": "Not Stated",
+            "degrees": [
+                "BBA in management",
+                "MBA in Finance"
+            ],
+            "gpa": 3.4
+        },
+        "gre": "N/A",
+        "recommendations": 2,
+        "experience": "20+ years in IT and consulting, highly experienced and multiple certifications in cloud computing, data engineering and machine learning",
+        "statementOfPurpose": "I wrote about why I wanted to improve my data science skills for personal and professional reasons - gave examples of the types of real-world problems I want to solve with data science - explained why my experience sets me up for success in the program despite lackluster performance as undergrad",
+        "moocs": "2 - Linear Algebra and Multivariable Calculus"
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "09/15/2022",
+        "decisionDate": "10/26/2022",
+        "education": {
+            "institution": "Not Stated",
+            "degree": "BS in Mechanical Engineering",
+            "gpa": 3.5
+        },
+        "gre": "N/A",
+        "recommendations": 2,
+        "experience": "Manufacturing Operations and Quality 8 yrs",
+        "statementOfPurpose": "Talked about experience working on Stats and related projects. MOOCs to leverage DS learning and get head start. Shared aspirations and goals to be achieved through the degree and domain I am interested to continue in future",
+        "moocs": "Coursera ML Mathematics and Python"
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "09/15/2022",
+        "decisionDate": "11/03/2022",
+        "education": {
+            "institution": "UCSD",
+            "degree": "MS in Materials Science",
+            "gpa": 3.8
+        },
+        "gre": "N/A",
+        "recommendations": 3,
+        "experience": "Community college professor (tenured, 8 years) in physics and engineering. Took R and Python programming classes through my colleges.",
+        "statementOfPurpose": "Explained the big project I wanted to work on that relates to my career, why I went back to school at Purdue, and why I wanted to study DS",
+        "moocs": "none"
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "06/05/2022",
+        "decisionDate": "09/27/2022",
+        "education": {
+            "institution": "UT Austin",
+            "degree": "MA in Economics",
+            "gpa": 3.6
+        },
+        "gre": {
+            "quantitative": 160,
+            "verbal": 168,
+            "writing": 4.5
+        },
+        "recommendations": 0,
+        "experience": "Not much, but I just accepted a position as an Econometrician",
+        "statementOfPurpose": "Explained how I am passionate about building a career in data, and my long term ambitions for a PhD in Econ. I want to have the most advanced methods at my disposal, understand practical AI intimately, and keep personal growth moving.",
+        "moocs": "1 - Deep Learning with PyTorch from IBM"
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "08/06/2022",
+        "decisionDate": "09/28/2022",
+        "education": {
+            "institution": "Not Stated",
+            "degree": "BS in Mechanical Engineering",
+            "gpa": 3.4
+        },
+        "gre": "N/A",
+        "recommendations": 2,
+        "experience": "15 Years, Cloud, DevOps, Python, ML",
+        "statementOfPurpose": "Explained how my previous experience is related to data science, and my long-term career goal is to become a research scientist.",
+        "moocs": "Andrew NG's ML Specialization"
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "08/14/2022",
+        "decisionDate": "10/26/2022",
+        "education": {
+            "institution": "Small Liberal Arts School",
+            "degrees": [
+                "BS in Biology",
+                "BS in Math"
+            ],
+            "gpa": 3.67
+        },
+        "gre": {
+            "quantitative": 169,
+            "verbal": 158,
+            "writing": 4.5
+        },
+        "recommendations": 1,
+        "experience": "2 years technical role at large software company, internship in computational biophysics.",
+        "statementOfPurpose": "I talked a lot about the ethical implications of implemented AI, and stressed my desire to become a conscientious developer.",
+        "moocs": "Some, but no certificate."
+    }
+
+]

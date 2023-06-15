@@ -1,0 +1,196 @@
+[
+    {
+        "status": "Accepted",
+        "applicationDate": "06/15/2021",
+        "decisionDate": "10/06/2021",
+        "education": {
+            "institution": "Ivy league",
+            "degree": "BA in Computer Science",
+            "gpa": 3.5
+        },
+        "gre": {
+            "quantitative": 168,
+            "verbal": 158,
+            "writing": 4
+        },
+        "recommendations": 3,
+        "experience": "~2 year analytic work (not data data science, more of like academic fellowship)",
+        "statementOfPurpose": "Y",
+        "comments": "This was my top choice due to a bit more recency and program selectivity, as well as really nice tuition package. I also got accepted into GaTech but would probably choose this one as the curriculum for this program seems to be a lot more rigorous and where I want to develop (data science). Let me know if anyone else is also considering between GaTech and UT Austin. Would love to have a discussion on this"
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "07/16/2021",
+        "decisionDate": "10/06/2021",
+        "education": {
+            "institution": "University of Northern Iowa",
+            "degree": "BA in Quantitative Economics",
+            "gpa": 3.68
+        },
+        "gre": "N/A",
+        "recommendations": 0,
+        "experience": "2 years, Research Analyst at university, R, SPSS, Python",
+        "statementOfPurpose": "Y",
+        "comments": "Obviously happy with results. I feel like my undergrad background in math and economics really helped (Discrete and argumentative math, econometrics, forecasting, applied mathematics in economics, fundamentals of data mining, as well as pre-reqs). I've also been doing research at the university for 5 years (3 as a student, and 2 full-time). Looking forward to the start of classes!"
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "06/27/2021",
+        "decisionDate": "10/06/2021",
+        "education": {
+            "institution": "Texas A&M Central Texas",
+            "degree": "BS in Computer Science",
+            "gpa": 3.12
+        },
+        "gre": "N/A",
+        "recommendations": 3,
+        "experience": "Office manager for almost a decade with some Excel and data cleaning exp. Not much else.",
+        "statementOfPurpose": "Y",
+        "comments": "I included in my statement of purpose that I dropped out of college after high school and emphasized how my life experience has taught me how to be a successful student and earn BA in Comp Sci summa cum laude (institutional GPA was 3.9) over ten years later. I also included how my course work in Numerical Analysis and subsequent love of Python prompted me to want to pursue a higher degree in data. I was able to convince my Numerical Analysis, Linear Programming professor and head of Comp Sci Dept. to write letters of recommendation, but I don't know how much the committee values them."
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "07/20/2021",
+        "decisionDate": "11/01/2021",
+        "education": {
+            "institution": "UT Arlington",
+            "degree": "BS in Computer Science",
+            "gpa": 3.1
+        },
+        "gre": "N/A",
+        "recommendations": 0,
+        "experience": "No Professional Experience in Programming",
+        "statementOfPurpose": "Y",
+        "comments": "I was feeling pessimistic after getting rejected from MSCSO. I am very excited to get started"
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "08/15/2021",
+        "decisionDate": "11/03/2021",
+        "education": {
+            "institution": "Small state school in TX",
+            "degree": "BS in Mathematics",
+            "gpa": 3.48
+        },
+        "gre": "N/A",
+        "recommendations": 0,
+        "experience": "13 years of experience as analyst in Oil & Gas. Experienced in SQL but not Python.",
+        "statementOfPurpose": "Y",
+        "comments": "I was worried because of my undergraduate GPA and because of having to discontinue a previous graduate program due to health issues. Pleasantly surprised and super amped to begin the program in January."
+    },
+
+    {
+        "status": "Rejected",
+        "applicationDate": "08/10/2021",
+        "decisionDate": "11/04/2021",
+        "education": {
+            "institution": "Lynchburg College",
+            "degree": "BS in Mathematics",
+            "gpa": 3.1
+        },
+        "gre": "N/A",
+        "recommendations": 0,
+        "experience": "4 years Data Analyst, 3 years Business Analyst",
+        "statementOfPurpose": "Yes",
+        "comments": "Worried that my GPA is too low. I have experience with Python, SQL, and R. Provided my GitHub link. Keeping my fingers crossed."
+    },
+
+    {
+        "status": "Rejected",
+        "applicationDate": "08/13/2021",
+        "decisionDate": "11/04/2021",
+        "education": {
+            "institution": "Top Canadian University",
+            "degree": "Bachelor of Commerce",
+            "gpa": 3.7
+        },
+        "gre": "N/A",
+        "recommendations": 1,
+        "experience": "1 year Data Scientist and 4 years Data/Business Analyst in FAANG and tech.",
+        "statementOfPurpose": "Yes",
+        "comments": "Seeing low acceptance rate for non-STEM undergrad degrees. Not gonna keep my hopes up. *Edit: Rejected, can't say I'm very surprised."
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "08/01/2021",
+        "decisionDate": "11/01/2021",
+        "education": {
+            "institution": "Small Private School",
+            "degree": "BA in Mathematics",
+            "gpa": 3.95
+        },
+        "gre": "N/A",
+        "recommendations": 0,
+        "experience": "3 Years Analyst/Researcher, 15+ Years Web Developer",
+        "statementOfPurpose": "Y",
+        "comments": "I am so excited about this program and very glad I got in. I've been out of school for quite a while, so I have some studying to do before the semester starts."
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "09/08/21",
+        "decisionDate": "11/01/2021",
+        "education": {
+            "institution": "University of Waterloo",
+            "degree": "BS Environmental Engineering",
+            "gpa": 3.7
+        },
+        "gre": "N/A",
+        "recommendations": 2,
+        "experience": "3 years at a public utility, using lots of R and some python at work",
+        "statementOfPurpose": "Y",
+        "comments": "I did take some computer engineering courses during my undergrad for my electives."
+    },
+
+    {
+        "status": "Rejected",
+        "applicationDate": "09/15/2021",
+        "decisionDate": "11/15/2021",
+        "education": [
+            {
+                "institution": "Not Stated",
+                "degree": "BS in Ceramics",
+                "minor": "Physics",
+                "gpa": "N/A"
+            },
+
+            {
+                "institution": "Not Stated",
+                "degree": "MS in Materials Science",
+                "minor": "Physics",
+                "gpa": "N/A"
+            }
+        ],
+        "gre": "N/A",
+        "recommendations": 0,
+        "experience": "5 years as product development engineer (Hardware CnF/prototyping) in semiconductor equipment industry. Fluent in C++ and python, implemented tuning and optimization algorithms used in power delivery systems/controls etc.",
+        "statementOfPurpose": "Yes",
+        "comments": "Such a shame! Can't say I am surprised though. I do not have a formal background in CS but I somehow believed that my work experience would suffice for it. I assume this program is getting a lot of competitive applications. That said, I am not planning on waiting around for another semester, as I do not have the luxury of time. The only reason I am pursuing a second master's is because of my immigration status which requires an advanced degree in DS to land a DS job in the states. Will look for CU Boulder MSDS program next. Good luck to rest of you folks waiting to hear back from UTA! Cheers."
+    },
+    
+    {
+        "status": "Accepted",
+        "applicationDate": "09/15/2021",
+        "decisionDate": "11/17/2021",
+        "education": {
+            "institution": "Not Stated",
+            "degrees": [
+                "Bachelors of Science in Psychology",
+                "Certificate in business foundations and certificate in Applied Statistical modeling"
+            ],
+
+            "gpa": 3.336
+
+        },
+        "gre": "N/A",
+        "recommendations": 0,
+        "experience": "only a resume was submitted. I completed my undergrad this past Spring, so not much work experience. Worked as a recruiter from June until a few weeks before the application deadline. In that time I received an offer to work as a government forecasting analyst, so I made sure to mention that and relate to the position back to the topics covered in some of the program's curriculum. I've also participated in research under the UT Department of Psychology, which involved a good amount of statistical modeling through R and one published work that showed those outputs.",
+        "statementOfPurpose": "Y",
+        "comments": "I was not expecting an acceptance to be honest given my last-minute submission, lack of a GRE or Recs, very average GPA, being an atypical undergrad student, and no professional experience. I don't think my background compares to the CS and EE majors who were admitted to this program. That being said, I will say that I attempted to make my personal statement as moving as possible, and I believe that it showed I had a set goal in mind that I was planning on achieving whether or not I was admitted to this program. Those reviewing my transcript could also clearly see that my main focus in the last two semesters of undergrad was stats and some CS, as I was already done w my psych courses and was attempting to complete the Stats modeling certificate plus a few other classes that I found appealing. I hope that this gives anyone else applying a bit of optimism if you are unsure because I know that the past semesters' admissions threads worried me when I saw extremely qualified candidates getting rejected."
+    }
+]
