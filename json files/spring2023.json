@@ -8,7 +8,6 @@
             "degree": "BS Biomedical Engineering",
             "gpa": 3.6
         },
-        "gre": "N/A",
         "recommendations": 0,
         "experience": "Internship at AECULAP as analyst, working as business analyst",
         "statementOfPurpose": "Explain why I want to study this master's degree, my experience and how this experience helps me to obtain the necessary prerequisites to pursue the master's degree. Why I want to study at the University of Texas and what I can contribute to the university.",
@@ -24,7 +23,6 @@
             "degree": "BA in Humanities",
             "gpa": 3.24
         },
-        "gre": "N/A",
         "recommendations": 1,
         "experience": "2 Years, No-name company, ML Engineer",
         "statementOfPurpose": "Explained how I started learning DS, why I think I can succeed in the program, and what I did at work.",
@@ -41,7 +39,6 @@
             "degree": "BS in Mathematics",
             "gpa": 3.4
         },
-        "gre": "N/A",
         "recommendations": 2,
         "experience": "2 years as a data analyst for an infrastructure and ops team",
         "statementOfPurpose": "Just explained my professional and educational experiences will help me be prepared for this program and that I would like to learn a deeper, formal learning of data science and its real-world applications",
@@ -78,7 +75,6 @@
             "minor": "Applied Math",
             "gpa": 3.42
         },
-        "gre": "N/A",
         "recommendations": 0,
         "experience": "17 Months Total. 8 Month internship as a Software Engineer. 9 Months Full-time as a Data Analyst",
         "statementOfPurpose": "Talked about how I want to learn Data Science so I can do supply chain optimization using ML.",
@@ -95,10 +91,8 @@
                 "B.A in Mathematics",
                 "M.S in Applied Mathematics",
                 "Ph.D in Applied Mathematics"
-            ],
-            "gpa": "N/A"
+            ]
         },
-        "gre": "N/A",
         "recommendations": 2,
         "experience": "3 Years (2.5 years at National Lab, 0.5 year as a data scientist at an energy company)",
         "statementOfPurpose": "Explained how my experiences and educations can help me succeed in completing the program, and my long-term career goal is to become a research/data scientist.",
@@ -118,7 +112,6 @@
             ],
             "gpa": 3.4
         },
-        "gre": "N/A",
         "recommendations": 2,
         "experience": "20+ years in IT and consulting, highly experienced and multiple certifications in cloud computing, data engineering and machine learning",
         "statementOfPurpose": "I wrote about why I wanted to improve my data science skills for personal and professional reasons - gave examples of the types of real-world problems I want to solve with data science - explained why my experience sets me up for success in the program despite lackluster performance as undergrad",
@@ -134,7 +127,6 @@
             "degree": "BS in Mechanical Engineering",
             "gpa": 3.5
         },
-        "gre": "N/A",
         "recommendations": 2,
         "experience": "Manufacturing Operations and Quality 8 yrs",
         "statementOfPurpose": "Talked about experience working on Stats and related projects. MOOCs to leverage DS learning and get head start. Shared aspirations and goals to be achieved through the degree and domain I am interested to continue in future",
@@ -150,7 +142,6 @@
             "degree": "MS in Materials Science",
             "gpa": 3.8
         },
-        "gre": "N/A",
         "recommendations": 3,
         "experience": "Community college professor (tenured, 8 years) in physics and engineering. Took R and Python programming classes through my colleges.",
         "statementOfPurpose": "Explained the big project I wanted to work on that relates to my career, why I went back to school at Purdue, and why I wanted to study DS",
@@ -186,7 +177,6 @@
             "degree": "BS in Mechanical Engineering",
             "gpa": 3.4
         },
-        "gre": "N/A",
         "recommendations": 2,
         "experience": "15 Years, Cloud, DevOps, Python, ML",
         "statementOfPurpose": "Explained how my previous experience is related to data science, and my long-term career goal is to become a research scientist.",

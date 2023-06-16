@@ -106,11 +106,6 @@
             ],
             "gpa": 3.86
         },
-        "gre": {
-            "quantitative": 0,
-            "verbal": 0,
-            "writing": 0
-        },
         "recommendations": 0,
         "experience": "Unemployed since kindergarten, but have research internships here and there",
         "statementOfPurpose": "I like computer graphics, and data-driven methods seem pretty interesting for computer graphics research.",
@@ -149,7 +144,6 @@
             "degree": "BEng in Mechanical Engineering",
             "gpa": 3.0
         },
-        "gre": 0,
         "recommendations": 2,
         "experience": "Research assistant in digital health at uni, 1.5 yrs of exp",
         "statementOfPurpose": "I stress much more on work experience as an RA in uni and explained how it prepared me for the program.",
@@ -165,7 +159,6 @@
             "degree": "BS in Mechanical Engineering",
             "gpa": 3.42
         },
-        "gre": 0,
         "recommendations": 0,
         "experience": "2 years as R&D Engineer, 2 years as Undergraduate Researcher, internship using SQL",
         "statementOfPurpose": "Discussed previous pursuit of Computer Science courses and educational/professional background which motivates me to improve statistics and programming skills to better convey technical topics to a broader audience.",

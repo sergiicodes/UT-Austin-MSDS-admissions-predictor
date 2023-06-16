@@ -4,7 +4,7 @@
         "applicationDate": "06/15/2021",
         "decisionDate": "10/06/2021",
         "education": {
-            "institution": "Ivy league",
+            "institution": "Ivy League",
             "degree": "BA in Computer Science",
             "gpa": 3.5
         },
@@ -28,7 +28,6 @@
             "degree": "BA in Quantitative Economics",
             "gpa": 3.68
         },
-        "gre": "N/A",
         "recommendations": 0,
         "experience": "2 years, Research Analyst at university, R, SPSS, Python",
         "statementOfPurpose": "Y",
@@ -44,7 +43,6 @@
             "degree": "BS in Computer Science",
             "gpa": 3.12
         },
-        "gre": "N/A",
         "recommendations": 3,
         "experience": "Office manager for almost a decade with some Excel and data cleaning exp. Not much else.",
         "statementOfPurpose": "Y",
@@ -60,7 +58,6 @@
             "degree": "BS in Computer Science",
             "gpa": 3.1
         },
-        "gre": "N/A",
         "recommendations": 0,
         "experience": "No Professional Experience in Programming",
         "statementOfPurpose": "Y",
@@ -76,7 +73,6 @@
             "degree": "BS in Mathematics",
             "gpa": 3.48
         },
-        "gre": "N/A",
         "recommendations": 0,
         "experience": "13 years of experience as analyst in Oil & Gas. Experienced in SQL but not Python.",
         "statementOfPurpose": "Y",
@@ -92,7 +88,6 @@
             "degree": "BS in Mathematics",
             "gpa": 3.1
         },
-        "gre": "N/A",
         "recommendations": 0,
         "experience": "4 years Data Analyst, 3 years Business Analyst",
         "statementOfPurpose": "Yes",
@@ -108,7 +103,6 @@
             "degree": "Bachelor of Commerce",
             "gpa": 3.7
         },
-        "gre": "N/A",
         "recommendations": 1,
         "experience": "1 year Data Scientist and 4 years Data/Business Analyst in FAANG and tech.",
         "statementOfPurpose": "Yes",
@@ -124,7 +118,6 @@
             "degree": "BA in Mathematics",
             "gpa": 3.95
         },
-        "gre": "N/A",
         "recommendations": 0,
         "experience": "3 Years Analyst/Researcher, 15+ Years Web Developer",
         "statementOfPurpose": "Y",
@@ -140,7 +133,6 @@
             "degree": "BS Environmental Engineering",
             "gpa": 3.7
         },
-        "gre": "N/A",
         "recommendations": 2,
         "experience": "3 years at a public utility, using lots of R and some python at work",
         "statementOfPurpose": "Y",
@@ -155,18 +147,15 @@
             {
                 "institution": "Not Stated",
                 "degree": "BS in Ceramics",
-                "minor": "Physics",
-                "gpa": "N/A"
+                "minor": "Physics"
             },
 
             {
                 "institution": "Not Stated",
                 "degree": "MS in Materials Science",
-                "minor": "Physics",
-                "gpa": "N/A"
+                "minor": "Physics"
             }
         ],
-        "gre": "N/A",
         "recommendations": 0,
         "experience": "5 years as product development engineer (Hardware CnF/prototyping) in semiconductor equipment industry. Fluent in C++ and python, implemented tuning and optimization algorithms used in power delivery systems/controls etc.",
         "statementOfPurpose": "Yes",
@@ -183,11 +172,8 @@
                 "Bachelors of Science in Psychology",
                 "Certificate in business foundations and certificate in Applied Statistical modeling"
             ],
-
             "gpa": 3.336
-
         },
-        "gre": "N/A",
         "recommendations": 0,
         "experience": "only a resume was submitted. I completed my undergrad this past Spring, so not much work experience. Worked as a recruiter from June until a few weeks before the application deadline. In that time I received an offer to work as a government forecasting analyst, so I made sure to mention that and relate to the position back to the topics covered in some of the program's curriculum. I've also participated in research under the UT Department of Psychology, which involved a good amount of statistical modeling through R and one published work that showed those outputs.",
         "statementOfPurpose": "Y",
