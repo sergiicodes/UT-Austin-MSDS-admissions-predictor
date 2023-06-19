@@ -1,8 +1,11 @@
 # Grad School Acceptance Prediction
 
-This project aims to predict and study the acceptance/rejection of applicants to a grad school program using machine learning techniques. The project utilizes a logistic regression model to predict the acceptance/rejection status based on various metrics provided by the applicants.
+This project aims to predict and study the acceptance/rejection of applicants to a grad school program using machine learning techniques. The project utilizes a random forest classifier method to predict whether an applicant will recieve either an acceptanced or a rejected status based on various metrics provided by the applicants.
 
 ## Dataset
+
+I retrieved the data from the unofficial subreddit of UT Austin's Master of Science in Data Science program. Luckily, there are several threads for each admission period, ranging from Fall/Spring 2021 up to Fall/Spring 2023, and all with identical formatting—making data preparation and preprocessing relatively straightforward. Below is a picture example of the data layout:
+![image](https://github.com/sergiicodes/UT-Austin-MSDS-admissions-predictor/assets/79073281/724b5ec7-265b-4b56-a155-4122fc0c5165)
 
 The dataset used in this project is formatted as JSON and contains the following fields for each applicant:
 
@@ -10,10 +13,11 @@ The dataset used in this project is formatted as JSON and contains the following
 - `applicationDate`: The date of application.
 - `decisionDate`: The date of the admission decision.
 - `education`: Information about the applicant's educational background, including institution, degree, and GPA.
+- `gre`: In comma separated format, listing highest Quant, Verbal and Writing Scores among submitted, NaN if not submitted. 
 - `recommendations`: The number of recommendations received.
 - `experience`: Details about the applicant's relevant work experience.
-- `statementOfPurpose`: A binary indicator (Y/N) for the presence of a statement of purpose.
-- `comments`: Additional comments provided by the applicant.
+- `statementOfPurpose`: A binary indicator (Y/N) for the presence of a statement of purpose and perhaps alongside an assisting comment.
+- `comments`: Additional, miscellaneous comments provided by the applicant.
 
 ## Project Structure
 
