@@ -1,0 +1,248 @@
+[
+    {
+      "status": "Rejected",
+      "applicationDate": "09/14/2020",
+      "decisionDate": "11/04/2020",
+      "education": {
+        "institution": "State University",
+        "degree": "BS in Petroleum Engineering",
+        "gpa": 3.4,
+        "minor" : [
+            "Business", 
+            "Technical Sales", 
+            "Geology"
+            ]
+        },
+      "recommendations": 3,
+      "experience": "3 years as Software Engineer at Fortune 15 energy company",
+      "statementOfPurpose": "Y",
+      "comments": "Was very surprised of my rejection to the program - must have been super competitive. I might have lacked formal CS pre-reqs but had stated I completed them via MOOCs. Guess UT is looking for formal coursework to suffice as pre-reqs. Looking forward to applying next cohort!"
+    },
+
+    {
+      "status": "Rejected",
+      "applicationDate": "09/01/2020",
+      "decisionDate": "11/04/2020",
+      "education": {
+        "institution": [
+            "Not Stated",
+            "big ten school",
+            "Harvard University"
+        ],
+        "degree": [
+            "MBA",
+            "PhD",
+            "MPH"
+        ]
+      },
+      "recommendations": 0,
+      "experience": "Python, R, tons of stats courses from my past education, over 10 years of experience in business analytics leadership, worked in 3 major industries",
+      "statementOfPurpose": "Y",
+      "comments": "Honestly I wasn’t expecting to be rejected. I am looking for a way to get some formal data science training. Meanwhile I think I have tons of valuable industrial experience to share with me peers, as well as learning from them. In the email I got, they said no feedback would be provided. I am moving on to Georgia Tech or University of Michigan next year, maybe."
+    },
+
+    {
+      "status": "Accepted",
+      "applicationDate": "08/17/2020",
+      "decisionDate": "10/23/2020",
+      "education": {
+        "institution": "Public University",
+        "degree": "BS in Mathematics",
+        "gpa": 3.0
+      },
+      "recommendations": 2,
+      "experience": "No related experience",
+      "statementOfPurpose": "Y"
+    },
+
+    {
+      "status": "Rejected",
+      "applicationDate": "09/08/2020",
+      "decisionDate": "11/09/2020",
+      "education": {
+        "institution":"state school",
+        "degree": [
+            "BA in Math & English",
+            "MS"
+        ],
+        "minor": "Computer Science",
+        "gpa": [
+            2.7,
+            3.4
+        ]
+        },
+        "gre": {
+        "quantitative": 168,
+        "verbal": 169,
+        "writing": 4.5
+        },
+      "recommendations": 3,
+      "experience": "ten years, last three in tech doing rogue data analysis occasionally because it's not actually my job but I work with data. Years of experience with Python, some R recently.",
+      "statementOfPurpose": "Y",
+      "comments": "I've completed ML, NLP, and statistics MOOCs and I included links to a data-scraping project. Pretty pissed I waited two months and they can't bother sending an email. I also emailed them questions a while ago and never got a response edit: got the email rejection a few hours later"
+    },
+
+    {
+      "status": "Rejected",
+      "applicationDate": "09/20/2020",
+      "decisionDate": "11/04/2020",
+      "education": {
+        "institution": "Canadian university",
+        "degree": [
+            "BS in Accounting",
+            "MS in Accounting"
+        ],
+
+        "gpa": [
+            3.64,
+            3.30
+        ]
+      },
+      "recommendations": 0,
+      "experience": "4 years at a big 4 accounting firm, IT/business process audit and data assurance",
+      "statementOfPurpose": "Y",
+      "comments": "I didn't really meet the pre-reqs and don't have much programming experience, so I could've been rejected for lack of technical background."
+    },
+
+    {
+      "status": "Accepted",
+      "applicationDate": "09/14/2020",
+      "decisionDate": "11/04/2020",
+      "education": {
+        "institution": "University of Washington",
+        "degree": "BS in Electrical Engineering",
+        "gpa": 3.50
+      },
+      "recommendations": 0,
+      "experience": "1-1/2 Years, Hardware Engineer",
+      "statementOfPurpose": "Y, it was a little less than one page, and was pretty shallow imo, I just talked about why I think math and stats is cool and the careers I'm interested in. I didn't do that whole story building garbage that a lot of people seem to do.",
+      "comments": "I wasn't going to post about my profile, because I assumed nearly everyone would get in, but I'm seeing some highly qualified people (more qualified than me) being rejected, so I wanted to post to help people build an idea as to what the heck Austin may be looking for. I'm going to list some other things about my profile that may or may not be relevant:\nCS minor (DSA, SWE, programming 1&2, technical writing lol)\nPhysics minor (upper level mechanics, thermal physics, modern physics, and 100-level physics)\nI've only taken one stats class, it was stats and prob for engineers\nTook a discrete math class for fun during undergrad"
+    },
+
+    {
+      "status": "Accepted",
+      "applicationDate": "08/29/2020",
+      "decisionDate": "10/23/2020",
+      "education": {
+        "institution": "Small Liberal Arts School",
+        "degree": "BS in Applied Mathematics",
+        "gpa": 3.45
+      },
+      "recommendations": 3,
+      "experience": "4 years at publicly traded insurance company; 2 years as an underwriter, 2 years as an actuary",
+      "statementOfPurpose": "Y",
+      "comments": "I have also completed a number of insurance industry designations / professional exams. Really hoping I get in to UT Austin. I'm between this and the OMSA at Georgia Tech. Good luck to y'all!"
+    },
+
+    {
+      "status": "Rejected",
+      "applicationDate": "09/15/2020",
+      "decisionDate": "11/09/2020",
+      "education": {
+        "institution": "Large State School",
+        "degree": "BS in MIS",
+        "gpa": 3.30
+      },
+      "gre": {
+        "quantitative": 162,
+        "verbal": 159,
+        "writing": 4.0
+        },
+      "recommendations": 3,
+      "experience": "1.5 years, Jr Data Scientist at large media company, Python and some R\n2 years, Data Scientist at large tech company, Python and some R",
+      "statementOfPurpose": "Y",
+      "comments": "My biggest worry is that I’m not very strong on some of the prereqs. Had to work a lot through most of my undergrad to pay for school and was pretty involved in student government so sometimes my grades weren’t stellar. This is my #1 choice so I’m hoping they pay more attention to my strengths like my undergrad research experience. Good luck everyone!"
+    },
+
+    {
+      "status": "Rejected",
+      "applicationDate": "09/15/2020",
+      "decisionDate": "11/09/2020",
+      "education": {
+        "institution": "Prominent state school",
+        "degree": "BS in Computer Science",
+        "gpa": 3.30
+      },
+      "recommendations": 3,
+      "experience": "2 internship +3 month new grad data engineering",
+      "statementOfPurpose": "Y",
+      "comments": "I had a perfect background for this program but they steered me over. Don’t know what they’re looking for tbh."
+    },
+
+    {
+      "status": "Accepted",
+      "applicationDate": "10/15/2020",
+      "decisionDate": "11/13/2020",
+      "education":  {
+        "institution": [
+            "public university",
+            "public university"
+        ],
+        "degree": [
+            "BA in Economics",
+            "Master of Library and Information Science"
+        ],
+        "gpa": [
+            3.19,
+            3.79
+        ]
+      },
+      "recommendations": 0,
+      "experience": "3+ years of unrelated library experience",
+      "statementOfPurpose": "Y",
+      "comments": "I was really surprised that I got accepted because I have no experience in CS or data science. I spent a few days working on my SOP and I think that was what got me in. The math/stats pre-reqs were covered by my econ degree and I took a intro programming course as part of my masters so that may have helped too."
+    },
+
+    {
+      "status": "Accepted",
+      "applicationDate": "09/01/2020",
+      "decisionDate": "09/28/2020",
+      "education": {
+        "institution": "Not Stated",
+        "degree": [
+            "BS in Environmental Science",
+            "PhD Environmental Science"
+        ],
+
+        "gpa": [
+            3.69,
+            3.87
+        ]
+
+      },
+      "gre": {
+        "quantitative": 152,
+        "verbal": 159
+        },
+      "recommendations": 1,
+      "experience": "2 Years as a Data Scientist within the DoD, 1 year as Data Analyst/Consultant",
+      "statementOfPurpose": "Yes"
+    },
+
+    {
+      "status": "Accepted",
+      "applicationDate": "08/22/2020",
+      "decisionDate": "09/28/2020",
+      "education": {
+        "institution": "Not Stated",
+        "degree": "BS in Mathematics,",
+        "gpa": 3.40
+      },
+      "recommendations": 2,
+      "experience": "2 Years as an Analyst/ Data Analytics Intern",
+      "statementOfPurpose": "Yes"
+    },
+
+    {
+      "status": "Accepted",
+      "applicationDate": "08/28/2020",
+      "decisionDate": "10/23/2020",
+      "education": {
+        "institution": "Yale University",
+        "degree": "BS in Political Science",
+        "gpa": 3.91
+      },
+      "recommendations": 0,
+      "experience": "1.5 years as govt data scientist, bunch more doing work related to, but not precisely data science"
+    }
+]  

@@ -1,0 +1,236 @@
+[
+    {
+        "status": "Rejected",
+        "applicationDate": "01/23/2022",
+        "decisionDate": "05/24/2022",
+        "education": {
+            "institution": "Not Stated",
+            "degrees": [
+                "BS in Physics",
+                "BS in Astronomy/Astrophysics",
+                "BA in Mathematics"
+            ],
+            "gpa": 3.2
+        },
+        "gre": {
+            "quantitative": 154,
+            "verbal": 154,
+            "writing": 3.5
+        },
+        "recommendations": 2,
+        "experience": "3 years as a data scientist for large tech company",
+        "statementOfPurpose": "Want a better understanding of principles behind ds through formal education.",
+        "moocs": 0,
+        "comments": "I write python for ml/ds everyday. I understand gpa/gre scores are not that high but I am honestly surprised (and upset) by this decision. It does not help that UT will not give a reason in the rejection email or on the mystatus website."
+    },    
+
+    {
+        "status": "Accepted",
+        "applicationDate": "12/27/2021",
+        "decisionDate": "03/08/2022",
+        "education": {
+            "institution":"Not Stated",
+            "degree": "BS in Actuarial Math",
+            "gpa": 3.5
+        },
+        "recommendations": 0,
+        "experience": "9 years as an Actuary",
+        "statementOfPurpose": "Explained how my career as an actuary set me up to succeed as a data scientist should I want to pursue a career outside insurance",
+        "comments": "Decent GPA but my strong math background likely helped me get in. A lot of experience with R but wish I had more programming skills."
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "04/18/2022",
+        "decisionDate": "06/06/2022",
+        "education": {
+            "institution": "Ivy League", 
+            "degree": "BA in History",
+            "gpa": 3.5
+        },
+        "gre": {
+            "quantitative": 170,
+            "verbal": 169,
+            "writing": 5.0
+        },
+        "recommendations": 2,
+        "experience": "9 years, military, non-data position",
+        "statementOfPurpose": "Addressed 4 major topics - 1. Why I want to switch to data science, 2. What I've done to get myself ready from a non-traditional background (including what I think is an honest assessment of where I am and the topics I still need to work on), 3. How I think I can benefit the program with my background, 4. Why I'm interested in the UT program specifically.",
+        "moocs": "Too many to count. I used MOOCs for all of my prereqs other than multivariable calculus. Also did Google Data Analyst Professional Certificate and 1st 5 courses of Johns Hopkins Data Science Specialization on Coursera.",
+        "comments": "I definitely don't fit the traditional mold for this program, but I tried to explain my goals and show that I'm willing to put in the effort to reach them. I started taking MOOCs during lockdown in 2020, so I've been working toward this for a couple of years now. I suspect my GRE score was a major factor - the admissions site says it's especially helpful for those without a related degree and those who have been out of school for a long time, both of which apply to me."
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "02/07/2022",
+        "decisionDate": "05/06/2022",
+        "education": {
+            "institution": "Columbia University", 
+            "degree": "BS in Applied Mathematics",
+            "gpa": 3.2
+        },
+        "recommendations": 2,
+        "experience": "2 engineering internships",
+        "statementOfPurpose": "Data science fits my background, UT is a strong program, and I want to have a career in data science.",
+        "moocs": 0,
+        "comments": "University name recognition"
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "03/14/2022",
+        "decisionDate": "05/07/2022",
+        "education": {
+            "institution": "UT Austin", 
+            "degree": "BS in Mathematics",
+            "gpa": 3.38
+        },
+        "recommendations": 2,
+        "experience": "6 months as a research analyst at an insurance company",
+        "statementOfPurpose": "Explained how I shifted career interests from actuarial science to data science",
+        "moocs": 0,
+        "comments": "Will most likely attend GT OMSA Fall 2022, though it's a difficult decision since UT's program looks great too. I was a little nervous about admissions due to my limited programming knowledge and no relevant experience. However, my strong mathematical foundation helped my application (and attending UT for undergrad lol)."
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "03/06/2022",
+        "decisionDate": "05/09/2022",
+        "education": {
+            "institution": "UT Austin",
+            "degrees": [
+                "BS in Film",
+                "BS in EE",
+                "BS in Math",
+                "Computational Science and Engineering Certificate"
+            ],
+            "gpa": 3.86
+        },
+        "recommendations": 0,
+        "experience": "Unemployed since kindergarten, but have research internships here and there",
+        "statementOfPurpose": "I like computer graphics, and data-driven methods seem pretty interesting for computer graphics research.",
+        "moocs": 0,
+        "comments": "Pretty much submitted a minimalistic application"
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "03/30/2022",
+        "decisionDate": "05/09/2022",
+        "education": {
+            "institution": "University of Illinois at Urbana-Champaign", 
+            "degree": "BS in Physics",
+            "minor": "Minor in Mathematics",
+            "gpa": 3.69
+        },
+        "gre": {
+            "quantitative": 178,
+            "verbal": 180,
+            "writing": 4.5
+        },
+        "recommendations": 0,
+        "experience": "T2 tech support 1 year, great job not super relevant to data science though.",
+        "statementOfPurpose": "Described education, why I wanted to change careers, my exposure to machine learning, and my life story of how I ended up working where I work. I focused on the skills I gained at each job and my motivations for applying to new ones.",
+        "moocs": "Andrew Ng's machine learning course, don't think I mentioned it in my application.",
+        "comments": "I don't have a strong background in computer science, but I have taken advanced mathematics courses and had all A's or A-'s for their required courses."
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "02/01/2021",
+        "decisionDate": "05/10/2021",
+        "education": {
+            "institution": "Top 50 QS ranking uni",
+            "degree": "BEng in Mechanical Engineering",
+            "gpa": 3.0
+        },
+        "recommendations": 2,
+        "experience": "Research assistant in digital health at uni, 1.5 yrs of exp",
+        "statementOfPurpose": "I stress much more on work experience as an RA in uni and explained how it prepared me for the program.",
+        "comments": "I know I have a borderline 2:1 undergrad GPA, though probably irrelevant major."
+    },
+
+    {
+        "status": "Rejected",
+        "applicationDate": "03/22/2022",
+        "decisionDate": "06/03/2022",
+        "education": {
+            "institution": "University of Pittsburgh",
+            "degree": "BS in Mechanical Engineering",
+            "gpa": 3.42
+        },
+        "recommendations": 0,
+        "experience": "2 years as R&D Engineer, 2 years as Undergraduate Researcher, internship using SQL",
+        "statementOfPurpose": "Discussed previous pursuit of Computer Science courses and educational/professional background which motivates me to improve statistics and programming skills to better convey technical topics to a broader audience.",
+        "moocs": 0,
+        "comments": "Not entirely sure why I didn’t get in, I had strong math grades and even several computer science courses from undergrad and even talked about my introduction to data science in my early career. Might also be because I didn’t submit recommendations or GRE, but I was intentionally looking for programs that didn’t require that as I don’t even know who I would ask."
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "03/24/2022",
+        "decisionDate": "05/06/2022",
+        "education": {
+            "institution": "MIT",
+            "degree": "BS in Economics",
+            "gpa": 3.2
+        },
+        "gre": {
+            "quantitative": 165,
+            "verbal": 168,
+            "writing": 4.5
+        },
+        "recommendations": 0,
+        "experience": "2 years consulting, 5 years analytics + data science, 2 years software engineering",
+        "statementOfPurpose": "Talked about industry experience in data science and software engineering. Tbh was a bit rushed so not sure the best representation of myself.",
+        "moocs": "ML, Deeplearning, Nand to Tetris, Algorithms + Datastructures, Mathematics for ML.",
+        "comments": "Program looks great and would be awesome to attend. Hoping for the best and good luck to everyone!"
+    },
+
+    {
+        "status": "Rejected",
+        "applicationDate": "01/15/2022",
+        "decisionDate": "05/23/2022",
+        "education": {
+            "institution": "University of Maryland - Global Campus",
+            "degree": "BS in Computer Science",
+            "gpa": 3.83
+        },
+        "recommendations": 3,
+        "experience": "6 years SWE",
+        "statementOfPurpose": "Y",
+        "comments": "Disappointed. Guess MSDSO has become a lot more competitive now. Looks like Admissions largely prefer STEM applicants from top-tier schools."
+    },
+    
+    {
+        "status": "Accepted",
+        "applicationDate": "04/30/2022",
+        "decisionDate": "05/27/2022",
+        "education": {
+            "institution": "Not Stated",
+            "degree": "BA in Accounting",
+            "gpa": 3.6
+        },
+        "recommendations": 0,
+        "experience": "4 years in DA/DSA in tech/Ecommerce",
+        "statementOfPurpose": "Explained how I have pivoted from business to analytics, previous work experience, and why UT",
+        "moocs": "Took some courses from Udemy/Udacity, but they are mostly stats focused (as opposed to programming)",
+        "comments": "My application was quite rushed (decided to apply in April) so honestly just so grateful that I got in! Now just hoping no hiccups in providing official transcripts (I did too many exchange programs in my undergrad so getting all these transcripts from years ago is gonna be fun…lol)"
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "04/20/2022",
+        "decisionDate": "05/27/2022",
+        "education": {
+            "institution": "overseas",
+            "degree": "BS in Physics",
+            "gpa": 3.5
+        },
+        "recommendations": 0,
+        "experience": "2 years in Geophysics",
+        "statementOfPurpose": "Explained how my experience prepared me for the program and how certain courses specifically could help me advance on topics in my current field.",
+        "moocs": "Basic data science and machine learning specializations and others",
+        "comments": "Thanks, everyone for posting the application status here and also those from last year, which made the waiting not so stressful."
+    }
+]

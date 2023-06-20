@@ -1,0 +1,211 @@
+[
+    {
+        "status": "Accepted",
+        "applicationDate": "03/20/2023",
+        "decisionDate": "05/23/2023",
+        "education": {
+            "institution": "University of Houston",
+            "degree": "Bachelor in MIS",
+            "gpa": 3.9
+        },
+        "recommendations": 2,
+        "experience": "1 year (DE, non-DS)",
+        "statementOfPurpose": "Talk about my passion with data and how I will apply DS into my current position work",
+        "relevantCreditCourses": "Pre-reqs satisfied by college, SQL/Python at work"
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "02/06/2023",
+        "decisionDate": "04/10/2023",
+        "education": {
+          "institution": "Great Schools",
+          "degrees": [
+            "BA",
+            "MA"
+          ]
+        },
+        "recommendations": 0,
+        "experience": "2 years business/data analyst, 1 year data science manager",
+        "statementOfPurpose": "Talked about how my direction started different but the goals and love of understanding truth and data have always been there. Explained my journey and courses taken",
+        "moocs": "Lots. Some of the MITx Micromasters in statistics and data science, Linear Algebra, R, lots of Python"
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "04/25/2023",
+        "decisionDate": "05/31/2023",
+        "education": {
+          "institution": "University of Houston",
+          "degree": "BS in Petroleum Engineering",
+          "gpa": 2.91
+        },
+        "recommendations": 3,
+        "experience": "4.5 years non DS with moderate programming side projects",
+        "statementOfPurpose": "Talked about successes in innovative process improvement projects leading to financial savings. experience in some programming",
+        "relevantCreditCourses": "One online Intro to CS course from accredited university"
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "04/15/2023",
+        "decisionDate": "05/23/2023",
+        "education": {
+          "undergraduate": {
+            "institution": "Top 15 Public University",
+            "degree": "BS in Supply Chain Management",
+            "gpa": 3.5
+          },
+          "graduate": {
+            "institution": "MS in Systems Engineering",
+            "gpa": 3.8
+          }
+        },
+        "recommendations": 3,
+        "experience": "8 years in Data Analytics",
+        "statementOfPurpose": "Y",
+        "relevantCreditCourses": [
+          "Python Programming",
+          "Java Programming",
+          "Data Structures"
+        ],
+        "moocs": [
+          "Calculus",
+          "Linear Algebra",
+          "Statistics"
+        ]
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "03/09/2023",
+        "decisionDate": "05/23/2023",
+        "education": [
+            {
+            "institution": "Top Private Univ",
+            "degree": "BA in History",
+            "gpa": 3.0
+            },
+            {
+            "institution": "Public Univ",
+            "degree": "BS in Math",
+            "gpa": 3.9
+            },
+            {
+            "institution": "Public Univ",
+            "degree": "MBA",
+            "gpa": 3.9
+            }
+        ],
+        "recommendations": 0,
+        "experience": "20 years in investment mgmt, currently Chief Investment Officer; few years of coding with Python on my own",
+        "statementOfPurpose": "Discussed the growing use of data/ML/AI in investment world; applicability for marketing/corporate strategy use in my company",
+        "relevantCreditCourses": [
+            "GTech Python course",
+            "NYU C++ course"
+        ]    
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "04/15/2023",
+        "decisionDate": "05/26/2023",
+        "education": {
+          "institution": "UT Austin",
+          "degrees": [
+            {
+              "degree": "MS in Applied Stats"
+            },
+            {
+              "degree": "PhD in QM"
+            }
+          ]
+        },
+        "recommendations": 0,
+        "experience": "Relevant research experience",
+        "statementOfPurpose": "Pursuing a MS in DS is beneficial for my research and future career",
+        "relevantCreditCourses": "Prior education covered prerequisite courses already. Did not take any extra courses."
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "02/27/2023",
+        "decisionDate": "05/23/2023",
+        "education": {
+          "institution": "Top 10 Canadian School",
+          "degree": "BMath in Statistics",
+          "gpa": 3.8
+        },
+        "recommendations": 1,
+        "experience": "8 months permanent full-time, analytical (Some DS) with significant amount of programming. 1.5 years in similar role as an intern (same company)",
+        "statementOfPurpose": "Discussed my aspirations to break into a more heavily DS-oriented career within the industry and how my experience within my role as an intern/employee in combination with my degree have prepared me well to succeed in MSDSO",
+        "relevantCreditCourses": "Pre-reqs satisfied by college, one additional MOOC taken in Intro to DS"
+    },
+
+    {
+        "status": "Accepted",
+        "applicationDate": "04/02/2023",
+        "decisionDate": "05/31/2023",
+        "education": {
+          "institution": "Liberal Arts College in Iowa",
+          "degrees": [
+            "BA in Accounting",
+            "BA in Actuarial Science"
+          ]
+        },
+        "recommendations": 3,
+        "experience": "4 years in auditing, building data analytics testing. CPA certified as of March 2023",
+        "statementOfPurpose": "Talked about how data has propelled my career and continued growth will require more education in data analytics and data science",
+        "relevantCreditCourses": [
+          "Advanced mathematics (linear algebra, multivariable calc, etc.) covered in Actuarial Science",
+          "Limited experience in Python and C++ through self-teaching from friends' textbooks and Udemy",
+          "Taken courses in RPA from UiPath"
+        ]
+    },
+
+    {
+      "status": "Accepted",
+      "applicationDate": "12/15/2022",
+      "decisionDate": "03/08/2023",
+      "education": {
+        "institution": "Texas Tech University",
+        "degree": "BS in Mechanical Engineering",
+        "gpa": 3.41
+      },
+      "recommendations": 1,
+      "experience": "7 months permanent full-time in a mechanical engineering role, some amount of programming. Probably got a big boost from my gig as a teaching assistant for a data science bootcamp",
+      "statementOfPurpose": "Related my previous roles and background as an engineer to",
+      "relevantCreditCourses": [
+        "Multivariable Calculus",
+        "Linear Algebra",
+        "Statistics",
+        "MATLAB programming"
+      ]
+  },
+
+  {
+    "status": "Accepted",
+    "applicationDate": "04/30/2023",
+    "decisionDate": "06/15/2023",
+    "education": {
+      "institution":"Rice University",
+      "degree": [
+        "BS in Astrophysics / Computational Physics",
+        "MA in Teaching"
+      ],
+      "gpa": [
+        3.60,
+        3.90
+      ]
+    },
+    "gre": {
+      "quantitative": 169,
+      "verbal": 167,
+      "writing": 5.0
+    },
+    "recommendations": 1,
+    "experience": "Undergrad research & internships in astronomy and geophysics",
+    "statementOfPurpose": "Explained how my undergrad degree and research/internships are related to data science, and my long-term career goal is to become a statistician",
+    "relevantCreditCourses": "Pre-reqs satisfied by College, lots of Python & linear algebra in my past research/internships"
+  }
+]
