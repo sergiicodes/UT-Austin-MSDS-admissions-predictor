@@ -1,6 +1,6 @@
 # Grad School Acceptance Prediction
 
-This project aims to predict and study the acceptance/rejection of applicants to a grad school program using machine learning techniques. The project utilizes a random forest classifier method to predict whether an applicant will recieve either an acceptanced or a rejected status based on various metrics provided by the applicants.
+This project aims to predict and study the acceptance/rejection of applicants to a grad school program using machine learning techniques. Two techniques are attempted: a random forest classifier and a neural network to predict whether an applicant will recieve either an acceptanced or a rejected status based on various metrics provided by the applicants.
 
 ## Dataset
 
