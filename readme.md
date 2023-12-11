@@ -1,70 +1,49 @@
-# Grad School Acceptance Prediction
+# UT-Austin MSDS Admissions Predictor
 
-This project aims to predict and study the acceptance/rejection of applicants to a grad school program using machine learning techniques. Two techniques are attempted: a random forest classifier and a neural network to predict whether an applicant will recieve either an acceptanced or a rejected status based on various metrics provided by the applicants.
+## Project Overview
+
+This project aims to predict the acceptance or rejection of applicants to the University of Texas at Austin's Master of Science in Data Science (MSDS) program. Utilizing machine learning techniques, specifically a Random Forest Classifier and a Neural Network, the project analyzes various applicant metrics to forecast admission outcomes.
 
 ## Dataset
 
-I retrieved the data from the unofficial subreddit of UT Austin's Master of Science in Data Science program. Luckily, there are several threads for each admission period, ranging from Fall/Spring 2021 up to Fall/Spring 2023, and all with identical formatting—making data preparation and preprocessing relatively straightforward. Below is a picture example of the data layout:
+The dataset was sourced from the unofficial subreddit of UT Austin's MSDS program, covering admissions from Fall/Spring 2021 to Fall/Spring 2023. The data includes:
+
 ![image](https://github.com/sergiicodes/UT-Austin-MSDS-admissions-predictor/assets/79073281/724b5ec7-265b-4b56-a155-4122fc0c5165)
 
-The dataset used in this project is formatted as JSON and contains the following fields for each applicant:
+- `status`: Acceptance or rejection status.
+- `applicationDate`: Date of application.
+- `decisionDate`: Date of the admission decision.
+- `education`: Applicant's educational background.
+- `gre`: GRE scores (Quant, Verbal, Writing).
+- `recommendations`: Number of recommendations.
+- `experience`: Relevant work experience.
+- `statementOfPurpose`: Presence of a statement of purpose (Y/N).
+- `comments`: Additional applicant comments.
 
-- `status`: The acceptance/rejection status of the applicant.
-- `applicationDate`: The date of application.
-- `decisionDate`: The date of the admission decision.
-- `education`: Information about the applicant's educational background, including institution, degree, and GPA.
-- `gre`: In comma separated format, listing highest Quant, Verbal and Writing Scores among submitted, NaN if not submitted. 
-- `recommendations`: The number of recommendations received.
-- `experience`: Details about the applicant's relevant work experience.
-- `statementOfPurpose`: A binary indicator (Y/N) for the presence of a statement of purpose and perhaps alongside an assisting comment.
-- `comments`: Additional, miscellaneous comments provided by the applicant.
+## Methods
 
-## Project Structure
+1. **Data Preprocessing**: Standardizing formatting, handling missing values, and encoding categorical data.
+2. **Model Development**: Implementing a Random Forest Classifier and a Bagging Classifier, as an ensemble learning technique.
+3. **Evaluation**: Assessing model performance using accuracy, precision, recall, and F1 score.
 
-The project directory has the following structure:
+## Results
 
-- `data/`: Contains the JSON dataset files.
-- `notebooks/`: Jupyter notebooks used for data exploration, preprocessing, model development, and evaluation.
-- `models/`: Saved trained models.
-- `README.md`: This file providing an overview of the project.
-- Other necessary project files.
+*Discuss any key findings, insights, or patterns observed from the project. Highlight model performance metrics.*
 
-## Getting Started
+## How to Use
 
-To get started with the project, follow these steps:
+### Prerequisites
 
-1. Clone the repository: `git clone https://github.com/your-username/grad-school-prediction.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Explore the Jupyter notebooks in the `notebooks/` directory to understand the project workflow.
-4. Preprocess the data, train the model, and evaluate the performance using the provided notebooks.
-5. Make necessary modifications and customize the code as per your requirements.
+- Python 3.x
+- Libraries: pandas, numpy, scikit-learn, tensorflow (or other relevant libraries)
 
-## Dependencies
+### Installation
 
-The project has the following dependencies:
+*Provide steps to install and run your project. Example:*
 
-- Python 3.8
-- numpy
-- pandas
-- scikit-learn
-- matplotlib
-- jupyter
+```bash
+git clone https://github.com/yourusername/UT-Austin-MSDS-admissions-predictor.git
+cd UT-Austin-MSDS-admissions-predictor
+pip install -r requirements.txt
 
-You can install the dependencies using the command `pip install -r requirements.txt`.
-
-## Results and Discussion
-
-Document your findings, insights, and observations here. Discuss the performance of the logistic regression model and the relevance of the features used for prediction. Include any visualizations or metrics that showcase the model's performance.
-
-## Future Improvements
-
-List any potential areas of improvement or future work that can be done to enhance the project. This can include exploring different models, incorporating additional features, or collecting more data for better predictions.
-
-## License
-
-[Specify the license for your project, if applicable.]
-
-## Acknowledgments
-
-[Optional: Mention any acknowledgments or credits for resources, code snippets, or references used in the project.]
 
