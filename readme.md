@@ -38,23 +38,29 @@ The Random Forest and Bagging Classifiers were trained to predict admission resu
 
 - **Application Timing**: The feature importances revealed that the number of days between application and decision was the most influential factor, with earlier applications having a higher likelihood of acceptance. This suggests that promptness in application submission is critical.
 
+---
 
 ![image](https://github.com/sergiicodes/UT-Austin-MSDS-admissions-predictor/assets/79073281/ad370925-ad99-4589-8233-145701e1e3a9)
 
 - **Academic Performance**: Not surprisingly, undergraduate GPA was the second most significant factor. A GPA around 3.50 was found to notably increase the chances of acceptance, underscoring the importance of strong academic credentials.
 
+---
+
 - **Work Experience**: Total experience in years also played a significant role in the prediction model. Even a modest amount of relevant work experience appeared to positively influence the admission outcome.
 
+---
 
 ![image](https://github.com/sergiicodes/UT-Austin-MSDS-admissions-predictor/assets/79073281/6191b209-ef24-4c34-a895-9e87477a7169)
 
 - **GRE Scores**: Interestingly, a significant portion of applicants, 80.6%, did not submit GRE scores, indicating that while the GRE is a consideration factor, it may not be a central component of the application. This aligns with our model's findings that GRE scores, though considered, had less impact on the prediction outcomes than other factors such as GPA and work experience.
 
+---
 
 ![image](https://github.com/sergiicodes/UT-Austin-MSDS-admissions-predictor/assets/79073281/5aade766-1b3f-43c7-9952-7827ea0f9f58)
 
 - **Educational Background Influence**: The distribution of educational institutions shows a diverse range of applicants, with the majority coming from undisclosed public/state universities, followed by UT Austin alumni, public Ivies, and Ivy League graduates. This suggests that while the program attracts applicants from prestigious institutions, it also considers a broad spectrum of candidates, reinforcing the inclusive nature of the admissions process.
 
+---
 
 ### Model Performance:
 ![image](https://github.com/sergiicodes/UT-Austin-MSDS-admissions-predictor/assets/79073281/f8f6b942-714f-4baf-9ad4-4a54968e1123)
