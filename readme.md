@@ -44,28 +44,14 @@ The Random Forest and Bagging Classifiers were trained to predict admission resu
 
 - **GRE Scores**: While GRE scores (quantitative, verbal, and writing) were considered in the model, they had a lower impact compared to the factors above. Nonetheless, these scores are part of the comprehensive evaluation of an applicant's profile.
 
-The decision tree visualization from the Random Forest offers a granular view of how different features interact to predict outcomes. For example, it shows that candidates with a GPA higher than 3.29 and who applied earlier were more likely to be accepted.
+![image](https://github.com/sergiicodes/UT-Austin-MSDS-admissions-predictor/assets/79073281/72171494-5645-4ce7-9d92-73df1562478d)
 
 These results provide actionable insights for prospective applicants. They emphasize the benefits of early application, maintaining a strong GPA, and acquiring relevant work experience. For the admissions committee, these findings could inform the development of more transparent guidelines and expectations for applicants.
 
+![image](https://github.com/sergiicodes/UT-Austin-MSDS-admissions-predictor/assets/79073281/81cd1900-f0d9-470b-8eee-33a604f1ac5c)
+To reinforce the relevance of these insights, the University's official website states the following eligibility requirements:
+
+- A minimum GPA of 3.0 in upper-division undergraduate courses.
+- A bachelor's degree in a field related to the chosen program of study from a regionally accredited institution.
+  
 *Note: It is important to acknowledge that these results are model-based predictions and should be validated with actual admissions data for a more accurate understanding of the admission process.*
-
----
-
-## How to Use
-
-### Prerequisites
-
-- Python 3.x
-- Libraries: pandas, numpy, scikit-learn, tensorflow (or other relevant libraries)
-
-### Installation
-
-*Provide steps to install and run your project. Example:*
-
-```bash
-git clone https://github.com/yourusername/UT-Austin-MSDS-admissions-predictor.git
-cd UT-Austin-MSDS-admissions-predictor
-pip install -r requirements.txt
-
-
