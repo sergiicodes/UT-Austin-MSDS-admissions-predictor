@@ -8,7 +8,7 @@ This project aims to predict the acceptance or rejection of applicants to the Un
 
 ## Dataset
 
-The dataset was sourced from the unofficial subreddit of UT Austin's MSDS program, covering admissions from Fall/Spring 2021 to Fall/Spring 2023. The data includes:
+The dataset was sourced from the [unofficial subreddit](https://www.reddit.com/r/MSDSO/) of UT Austin's MSDS program, covering admissions from Fall/Spring 2021 to Fall/Spring 2023. The data includes:
 
 ![image](https://github.com/sergiicodes/UT-Austin-MSDS-admissions-predictor/assets/79073281/724b5ec7-265b-4b56-a155-4122fc0c5165)
 
